@@ -1,0 +1,25 @@
+{
+  "name": "PoupaIA — Agente Financeiro",
+  "short_name": "PoupaIA",
+  "description": "Seu agente financeiro de bolso: leitura de faturas, detector de assinaturas e negociação com IA.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F1F5F9",
+  "theme_color": "#1D61E7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
